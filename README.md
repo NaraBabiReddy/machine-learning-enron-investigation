@@ -1,5 +1,5 @@
 # machine-learning-enron-investigation
-ML project part of Udacity Data Science course to build a person of interest identifier based on financial and email data made public as a result of the Enron scandal.
+ML project at Udacity to build a person of interest identifier based on financial and email data made public as a result of the Enron scandal.
 ### poi_id.pyc
 contains all code done for data analysis and iterative test of various algorithms. 
 ### Enron_poi_ML Algorithm.pdf
